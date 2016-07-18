@@ -1,0 +1,1 @@
+Install mongodb,nodejs,npm 
